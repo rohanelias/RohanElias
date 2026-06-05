@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Hi 👋, I'm Rohan Elias
@@ -9,11 +9,11 @@
 
 </div>
 
----
+
 
 ## 🚀 About Me
 
-```yaml
+
 Name: Rohan Elias
 Education: B.Tech CSE
 College: College of Engineering Trikaripur
@@ -26,16 +26,16 @@ Currently Learning:
   - Advanced DSA
   - Machine Learning
   - System Design
-````
+
 
 * 🌱 Currently learning **B.Tech Computer Science & Engineering**
 * 🤝 Looking to collaborate on **DSA & Open Source Projects**
 * 💬 Ask me about **Python, Java, C, C++, MySQL**
 * ⚡ Fun Fact: **I'm always on caffeine ☕**
 
----
 
-## 🌐 Connect With Me
+
+ ##🌐 Connect With Me
 
 <p align="center">
 <a href="mailto:rohaneliasambat@gmail.com">
@@ -54,7 +54,7 @@ Currently Learning:
 
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -64,10 +64,9 @@ Currently Learning:
 
 </div>
 
----
 
 
----
+
 
 ## 🚧 Current Focus
 
@@ -79,7 +78,7 @@ Currently Learning:
 🚀 Open Source Contributions
 ```
 
----
+
 
 ## 📈 Contribution Graph
 
@@ -89,7 +88,7 @@ Currently Learning:
 
 </div>
 
----
+
 
 ## 💡 Random Dev Quote
 
@@ -99,7 +98,7 @@ Currently Learning:
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -110,4 +109,4 @@ Currently Learning:
 <img src="https://komarev.com/ghpvc/?username=rohanelias&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
-```
+
