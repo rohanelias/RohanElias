@@ -1,21 +1,113 @@
-<h1 align="center">Hi 👋, I'm Rohan Elias</h1>
-<h3 align="center">Student at College of Engineering Trikaripur</h3>
+````md
+<div align="center">
 
-- 🌱 I’m currently learning **B.TECH Computer Science and Engineering**
+# Hi 👋, I'm Rohan Elias
 
-- 👯 I’m looking to collaborate on **DSA**
+### 💻 Computer Science Engineering Student | 🚀 Developer | 📚 DSA Enthusiast
 
-- 💬 Ask me about **python, C, Java, Mysql and C++**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Python+Developer;DSA+Enthusiast;Building+Cool+Projects;Always+Learning+Something+New" alt="Typing SVG" />
 
-- 📫 How to reach me **rohaneliasambat@gmail.com**
+</div>
 
-- ⚡ Fun fact **I'm always on caffeine🍵**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## 🚀 About Me
+
+```yaml
+Name: Rohan Elias
+Education: B.Tech CSE
+College: College of Engineering Trikaripur
+Interests:
+  - Data Structures & Algorithms
+  - Artificial Intelligence
+  - Automation Projects
+  - Open Source
+Currently Learning:
+  - Advanced DSA
+  - Machine Learning
+  - System Design
+````
+
+* 🌱 Currently learning **B.Tech Computer Science & Engineering**
+* 🤝 Looking to collaborate on **DSA & Open Source Projects**
+* 💬 Ask me about **Python, Java, C, C++, MySQL**
+* ⚡ Fun Fact: **I'm always on caffeine ☕**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="mailto:rohaneliasambat@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rohanelias">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohanelias&show_icons=true&locale=en&layout=compact" alt="rohanelias" /></p>
+## 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,react,git,linux,arduino,blender,ps,vscode" />
+
+</div>
+
+---
+
+
+---
+
+## 🚧 Current Focus
+
+```text
+📚 Solving DSA Problems Daily
+🤖 Learning AI & Machine Learning
+🌱 Building Hydroponics Automation Systems
+⚡ Competitive Programming
+🚀 Open Source Contributions
+```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohanelias&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=rohanelias&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+</div>
+```
