@@ -73,7 +73,6 @@ Currently Learning:
 ```text
 📚 Solving DSA Problems Daily
 🤖 Learning AI & Machine Learning
-🌱 Building Hydroponics Automation Systems
 ⚡ Competitive Programming
 🚀 Open Source Contributions
 ```
